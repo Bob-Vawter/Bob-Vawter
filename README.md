@@ -14,7 +14,7 @@ Take a look at a couple of examples that I have in my own portfolio:
 
 **Tic Tac Toe:** https://tictactoe-bob.netlify.app/
 
-**Rock Paper Scissors:** https://rockpaperscissors-app.netlify.app/v
+**Rock Paper Scissors:** https://rockpaperscissors-app.netlify.app/
 
 <!---
 Bob-Vawter/Bob-Vawter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
